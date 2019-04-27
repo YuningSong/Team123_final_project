@@ -1,0 +1,31 @@
+Team_id,Abbreviation,Fullname,Arena,Location,Capacity,Opened
+1,MIA,Miami Heat,American Airlines Arena,"Miami, Florida","19,600",1999
+2,DAL,Dallas Mavericks,American Airlines Center,"Dallas, Texas","19,200",2001
+3,ORL,Orlando Magic,Amway Center,"Orlando, Florida","18,846",2010
+4,SAS,San Antonio Spurs,AT&T Center,"San Antonio, Texas","18,418",2002
+5,IND,Indiana Pacers,Bankers Life Fieldhouse,"Indianapolis, Indiana","17,923",1999
+6,BKN,Brooklyn Nets,Barclays Center,"Brooklyn, New York","17,732",2012
+7,WAS,Washington Wizards,Capital One Arena,"Washington, D.C.","20,356",1997
+8,OKC,Oklahoma City Thunder,Chesapeake Energy Arena,"Oklahoma City, Oklahoma","18,203",2002
+9,MEM,Memphis Grizzlies,FedExForum,"Memphis, Tennessee","17,794",2004
+10,MIL,Milwaukee Bucks,Fiserv Forum,"Milwaukee, Wisconsin","17,500",2018
+11,SAC,Sacramento Kings,Golden 1 Center,"Sacramento, California","17,583",2016
+12,DET,Detroit Pistons,Little Caesars Arena,"Detroit, Michigan","20,491",2017
+13,NYK,New York Knicks,Madison Square Garden,"New York, New York","19,812",1968
+14,POR,Portland Trail Blazers,Moda Center,"Portland, Oregon","19,441",1995
+15,GSW,Golden State Warriors,Oracle Arena,"Oakland, California","19,596",1966
+16,DEN,Denver Nuggets,Pepsi Center,"Denver, Colorado","19,520",1999
+17,CLE,Cleveland Cavaliers,Quicken Loans Arena,"Cleveland, Ohio","20,562",1994
+18,TOR,Toronto Raptors,Scotiabank Arena,"Toronto, Ontario","19,800",1999
+19,NOP,New Orleans Pelicans,Smoothie King Center,"New Orleans, Louisiana","16,867",1999
+20,CHA,Charlotte Hornets,Spectrum Center,"Charlotte, North Carolina","19,077",2005
+21,LAC,Los Angeles Clippers,Staples Center,"Los Angeles, California","19,068",1999
+22,LAL,Los Angeles Lakers,Staples Center,"Los Angeles, California","18,997",1999
+23,ATL,Atlanta Hawks,State Farm Arena,"Atlanta, Georgia","18,118",1999
+24,PHX,Phoenix Suns,Talking Stick Resort Arena,"Phoenix, Arizona","18,055",1992
+25,MIN,Minnesota Timberwolves,Target Center,"Minneapolis, Minnesota","18,978",1990
+26,BOS,Boston Celtics,TD Garden,"Boston, Massachusetts","18,624",1995
+27,HOU,Houston Rockets,Toyota Center,"Houston, Texas","18,055",2003
+28,CHI,Chicago Bulls,United Center,"Chicago, Illinois","20,917",1994
+29,UTA,Utah Jazz,Vivint Smart Home Arena,"Salt Lake City, Utah","18,306",1991
+30,PHI,Philadelphia 76ers,Wells Fargo Center,"Philadelphia, Pennsylvania","20,478",1996

@@ -1,0 +1,491 @@
+Player_id,Name,Age,Birth_place,Birthdate,Height,Weight,Position
+1,AJ Price,29.0,us,"October 7, 1986",185.0,81.45,PG
+2,Aaron Brooks,30.0,us,"January 14, 1985",180.0,72.45,PG
+3,Aaron Gordon,20.0,us,"September 16, 1995",202.5,99.0,PF
+4,Adreian Payne,24.0,us,"February 19, 1991",205.0,106.65,PF
+5,Al Horford,29.0,do,"June 3, 1986",205.0,110.25,C
+6,Al Jefferson,30.0,us,"January 4, 1985",205.0,130.05,C
+7,Alan Anderson,33.0,us,"October 16, 1982",195.0,99.0,SG
+8,Alec Burks,24.0,us,"July 20, 1991",195.0,96.3,SG
+9,Alex Kirk,24.0,us,"November 14, 1991",210.0,110.25,C
+10,Alex Len,22.0,ua,"June 16, 1993",212.5,117.0,C
+11,Alexey Shved,27.0,ru,"December 16, 1988",195.0,85.5,SG
+12,Alexis Ajinca,27.0,fr,"May 6, 1988",215.0,111.6,C
+13,Al-Farouq Aminu,25.0,us,"September 21, 1990",202.5,99.0,SF
+14,Allen Crabbe,23.0,us,"April 9, 1992",195.0,94.5,SG
+15,Alonzo Gee,28.0,us,"May 29, 1987",195.0,101.25,SF
+16,Amar'e Stoudemire,,,,,,
+17,Amir Johnson,28.0,us,"May 1, 1987",202.5,108.0,PF
+18,Anderson Varejao,,,,,,
+19,Andre Dawkins,24.0,us,"September 19, 1991",192.5,96.75,SG
+20,Andre Drummond,22.0,us,"August 10, 1993",207.5,125.55,C
+21,Andre Iguodala,31.0,us,"January 28, 1984",195.0,96.75,SF
+22,Andre Miller,39.0,us,"March 19, 1976",187.5,90.0,PG
+23,Andre Roberson,24.0,us,"December 4, 1991",197.5,94.5,SG
+24,Andrea Bargnani,30.0,it,"October 26, 1985",210.0,110.25,C
+25,Andrei Kirilenko,34.0,ru,"February 18, 1981",202.5,99.0,SF
+26,Andrew Bogut,31.0,au,"November 28, 1984",210.0,117.0,C
+27,Andrew Nicholson,26.0,ca,"December 8, 1989",202.5,112.5,PF
+28,Andrew Wiggins,,,,,,
+29,Anthony Bennett,22.0,ca,"March 14, 1993",200.0,110.25,PF
+30,Anthony Davis,22.0,us,"March 11, 1993",205.0,113.85,PF
+31,Anthony Morrow,30.0,us,"September 27, 1985",192.5,94.5,SG
+32,Anthony Tolliver,,,,,,
+33,Archie Goodwin,21.0,us,"August 17, 1994",192.5,90.0,SG
+34,Arinze Onuaku,28.0,us,"July 13, 1987",202.5,114.75,C
+35,Aron Baynes,29.0,nz,"December 9, 1986",205.0,117.0,C
+36,Arron Afflalo,30.0,us,"October 15, 1985",192.5,94.5,SG
+37,Austin Daye,27.0,us,"June 5, 1988",207.5,99.0,SF
+38,Austin Rivers,23.0,us,"August 1, 1992",190.0,90.0,SG
+39,Avery Bradley,25.0,us,"November 26, 1990",185.0,81.0,SG
+40,Ben Gordon,32.0,gb,"April 4, 1983",187.5,90.0,SG
+41,Ben McLemore,22.0,us,"February 11, 1993",192.5,87.75,SG
+42,Beno Udrih,,,,,,
+43,Bernard James,30.0,us,"February 7, 1985",205.0,108.0,C
+44,Bismack Biyombo,23.0,cd,"August 28, 1992",202.5,114.75,C
+45,Blake Griffin,26.0,us,"March 16, 1989",205.0,112.95,PF
+46,Bojan Bogdanovic,26.0,ba,"April 18, 1989",200.0,97.2,SF
+47,Boris Diaw,33.0,fr,"April 16, 1982",200.0,112.5,PF
+48,Bradley Beal,22.0,us,"June 28, 1993",192.5,93.15,SG
+49,Brandan Wright,,,,,,
+50,Brandon Bass,30.0,us,"April 30, 1985",200.0,112.5,PF
+51,Brandon Davies,24.0,us,"July 25, 1991",205.0,108.0,PF
+52,Brandon Jennings,26.0,us,"September 23, 1989",182.5,76.5,PG
+53,Brandon Knight,24.0,us,"December 2, 1991",187.5,85.05,SG
+54,Brandon Rush,30.0,us,"July 7, 1985",195.0,99.0,SG
+55,Brendan Haywood,36.0,us,"November 27, 1979",210.0,120.6,C
+56,Brian Roberts,30.0,us,"December 3, 1985",182.5,77.85,PG
+57,Brook Lopez,27.0,us,"April 1, 1988",210.0,123.75,C
+58,Bruno Caboclo,20.0,br,"September 21, 1995",202.5,98.1,SF
+59,Bryce Cotton,23.0,us,"August 11, 1992",182.5,74.25,PG
+60,C.J. Watson,31.0,us,"April 17, 1984",185.0,78.75,PG
+61,Cameron Bairstow,25.0,au,"December 7, 1990",202.5,112.5,PF
+62,Carl Landry,32.0,us,"September 19, 1983",202.5,111.6,PF
+63,Carlos Boozer,34.0,de,"November 20, 1981",202.5,116.1,PF
+64,Carmelo Anthony,31.0,us,"May 29, 1984",200.0,108.0,SF
+65,Caron Butler,35.0,us,"March 13, 1980",197.5,102.6,SF
+66,Cartier Martin,31.0,us,"November 20, 1984",197.5,99.0,SF
+67,Chandler Parsons,27.0,us,"October 25, 1988",205.0,103.5,SF
+68,Channing Frye,32.0,us,"May 17, 1983",207.5,114.75,PF
+69,Charlie Villanueva,,,,,,
+70,Chase Budinger,27.0,us,"May 22, 1988",197.5,94.05,SF
+71,Chris Andersen,37.0,us,"July 7, 1978",205.0,110.25,C
+72,Chris Bosh,31.0,us,"March 24, 1984",207.5,105.75,C
+73,Chris Copeland,31.0,us,"March 17, 1984",202.5,107.55,SF
+74,Chris Douglas-Roberts,28.0,us,"January 8, 1987",197.5,90.0,SG
+75,Chris Johnson,25.0,us,"April 29, 1990",195.0,92.7,SF
+76,Chris Kaman,33.0,us,"April 28, 1982",210.0,119.25,C
+77,Chris Paul,30.0,us,"May 6, 1985",180.0,78.75,PG
+78,Chuck Hayes,32.0,us,"June 11, 1983",195.0,108.0,C
+79,CJ McCollum,24.0,us,"September 19, 1991",190.0,90.0,SG
+80,CJ Miles,28.0,us,"April 18, 1987",195.0,101.25,SG
+81,CJ Wilcox,,,,,,
+82,Cleanthony Early,24.0,us,"April 17, 1991",200.0,94.5,SF
+83,Clint Capela,21.0,ch,"May 18, 1994",205.0,108.0,C
+84,Cody Zeller,,,,,,
+85,Cole Aldrich,27.0,us,"October 31, 1988",207.5,112.5,C
+86,Corey Brewer,29.0,us,"March 5, 1986",202.5,83.7,SF
+87,Cory Jefferson,25.0,us,"December 26, 1990",202.5,98.1,PF
+88,Cory Joseph,24.0,ca,"August 20, 1991",187.5,86.85,PG
+89,Courtney Lee,30.0,us,"October 3, 1985",192.5,90.0,SG
+90,D.J. Augustin,28.0,us,"November 10, 1987",180.0,82.35,PG
+91,Dahntay Jones,35.0,us,"December 27, 1980",195.0,101.25,SF
+92,Damian Lillard,25.0,us,"July 15, 1990",187.5,87.75,PG
+93,Damjan Rudez,29.0,hr,"June 17, 1986",205.0,102.6,SF
+94,Danilo Gallinari,27.0,it,"August 8, 1988",205.0,101.25,SF
+95,Danny Granger,32.0,us,"April 20, 1983",202.5,99.9,SF
+96,Danny Green,28.0,us,"June 22, 1987",195.0,96.75,SG
+97,Dante Cunningham,28.0,us,"April 22, 1987",200.0,103.5,PF
+98,Dante Exum,20.0,au,"July 13, 1995",195.0,85.5,PG
+99,Darius Miller,25.0,us,"March 21, 1990",200.0,105.75,SF
+100,Darius Morris,24.0,us,"January 3, 1991",190.0,85.5,PG
+101,Darrell Arthur,27.0,us,"March 25, 1988",202.5,105.75,PF
+102,Darren Collison,28.0,us,"August 23, 1987",180.0,78.75,PG
+103,David Lee,32.0,us,"April 29, 1983",202.5,110.25,PF
+104,David Stockton,24.0,us,"June 24, 1991",177.5,74.25,PG
+105,David Wear,,,,,,
+106,David West,35.0,us,"August 29, 1980",202.5,112.5,PF
+107,DeAndre Jordan,27.0,us,"July 21, 1988",207.5,119.25,C
+108,DeJuan Blair,26.0,us,"April 22, 1989",197.5,121.5,PF
+109,DeMar DeRozan,26.0,us,"August 7, 1989",197.5,99.45,SG
+110,DeMarcus Cousins,25.0,us,"August 13, 1990",207.5,121.5,C
+111,DeMarre Carroll,29.0,us,"July 27, 1986",200.0,96.75,SF
+112,Dennis Schroder,22.0,de,"September 15, 1993",182.5,77.4,PG
+113,Deron Williams,,,,,,
+114,Derrick Favors,24.0,us,"July 15, 1991",205.0,119.25,PF
+115,Derrick Rose,27.0,us,"October 4, 1988",187.5,85.5,PG
+116,Derrick Williams,,,,,,
+117,Devin Harris,32.0,us,"February 27, 1983",187.5,86.4,PG
+118,Devyn Marble,23.0,us,"September 21, 1992",195.0,90.0,SG
+119,Dewayne Dedmon,26.0,us,"August 12, 1989",210.0,110.25,C
+120,Dion Waiters,,,,,,
+121,Dirk Nowitzki,37.0,de,"June 19, 1978",210.0,110.25,PF
+122,Donald Sloan,27.0,us,"January 15, 1988",187.5,92.25,PG
+123,Donatas Motiejunas,25.0,lt,"September 20, 1990",210.0,99.9,PF
+124,Dorell Wright,,,,,,
+125,Doug McDermott,23.0,us,"January 3, 1992",200.0,101.25,SF
+126,Draymond Green,25.0,us,"March 4, 1990",197.5,103.5,PF
+127,Drew Gooden,34.0,us,"September 24, 1981",205.0,112.5,PF
+128,Drew Gordon,25.0,us,"July 12, 1990",202.5,110.25,PF
+129,Dwight Buycks,26.0,us,"March 6, 1989",187.5,85.5,PG
+130,Dwight Howard,30.0,us,"December 8, 1985",207.5,119.25,C
+131,Dwight Powell,24.0,ca,"July 20, 1991",207.5,108.0,PF
+132,Dwyane Wade,,,,,,
+133,Earl Barron,34.0,us,"August 14, 1981",210.0,112.5,C
+134,Earl Clark,27.0,us,"January 17, 1988",205.0,101.25,PF
+135,Ed Davis,26.0,us,"June 5, 1989",205.0,108.0,PF
+136,Ekpe Udoh,,,,,,
+137,Elfrid Payton,21.0,us,"February 22, 1994",190.0,83.25,PG
+138,Elijah Millsap,,,,,,
+139,Elliot Williams,,,,,,
+140,Elton Brand,36.0,us,"March 11, 1979",200.0,123.75,C
+141,Enes Kanter,23.0,ch,"May 20, 1992",207.5,110.25,C
+142,Eric Bledsoe,26.0,us,"December 9, 1989",182.5,85.5,PG
+143,Eric Gordon,27.0,us,"December 25, 1988",190.0,96.75,SG
+144,Erick Green,24.0,us,"May 9, 1991",190.0,83.25,PG
+145,Ersan Ilyasova,28.0,tr,"May 15, 1987",205.0,105.75,PF
+146,E'Twaun Moore,26.0,us,"February 28, 1989",190.0,85.95,SG
+147,Evan Fournier,23.0,fr,"October 29, 1992",197.5,92.25,SG
+148,Evan Turner,26.0,ng,"October 21, 1989",207.5,114.75,C
+149,Festus Ezeli,,,,,,
+150,Francisco Garcia,34.0,do,"December 31, 1981",197.5,87.75,SF
+151,Furkan Aldemir,24.0,tr,"August 9, 1991",205.0,108.0,PF
+152,Gal Mekel,27.0,il,"March 4, 1988",187.5,85.95,PG
+153,Garrett Temple,29.0,us,"May 8, 1986",195.0,87.75,SG
+154,Gary Harris,21.0,us,"September 14, 1994",190.0,94.5,SG
+155,Gary Neal,31.0,us,"October 3, 1984",190.0,94.5,SG
+156,George Hill,29.0,us,"May 4, 1986",187.5,84.6,PG
+157,Gerald Green,29.0,us,"January 26, 1986",197.5,92.25,SG
+158,Gerald Henderson,28.0,us,"December 9, 1987",192.5,96.75,SG
+159,Gerald Wallace,,,,,,
+160,Giannis Antetokounmpo,21.0,gr,"December 6, 1994",207.5,99.9,SG
+161,Gigi Datome,,,,,,
+162,Glen Davis,29.0,us,"January 1, 1986",202.5,130.05,PF
+163,Glen Rice,24.0,us,"January 1, 1991",195.0,92.7,SG
+164,Glenn Robinson III,,,,,,
+165,Goran Dragic,29.0,si,"May 6, 1986",187.5,85.5,SG
+166,Gordon Hayward,25.0,us,"March 23, 1990",200.0,101.7,SF
+167,Gorgui Dieng,25.0,sn,"January 18, 1990",207.5,108.45,C
+168,Grant Jerrett,22.0,us,"July 8, 1993",205.0,105.75,PF
+169,Greg Monroe,25.0,us,"June 4, 1990",207.5,119.25,PF
+170,Greg Smith,24.0,us,"January 8, 1991",205.0,112.5,PF
+171,Greg Stiemsma,30.0,us,"September 26, 1985",207.5,117.0,C
+172,Greivis Vasquez,28.0,ve,"January 16, 1987",195.0,97.65,PG
+173,Harrison Barnes,23.0,us,"May 30, 1992",200.0,94.5,SF
+174,Hassan Whiteside,,,,,,
+175,Hedo Turkoglu,,,,,,
+176,Henry Sims,,,,,,
+177,Henry Walker,,,,,,
+178,Hollis Thompson,,,,,,
+179,Ian Clark,24.0,us,"March 7, 1991",187.5,78.75,SG
+180,Ian Mahinmi,29.0,fr,"November 5, 1986",207.5,112.5,C
+181,Iman Shumpert,25.0,us,"June 26, 1990",192.5,99.0,SG
+182,Isaiah Canaan,24.0,us,"May 21, 1991",180.0,90.45,PG
+183,Isaiah Thomas,26.0,us,"February 7, 1989",172.5,83.25,PG
+184,Ish Smith,,,,,,
+185,J.J. Barea,31.0,pr,"June 26, 1984",180.0,83.25,PG
+186,Jabari Brown,23.0,us,"December 18, 1992",190.0,96.75,SG
+187,Jabari Parker,,,,,,
+188,Jack Cooley,24.0,us,"April 4, 1991",202.5,117.0,PF
+189,Jae Crowder,25.0,us,"July 6, 1990",195.0,105.75,SF
+190,JaKarr Sampson,,,,,,
+191,Jamaal Franklin,24.0,us,"July 21, 1991",192.5,85.95,SG
+192,Jamal Crawford,35.0,us,"March 20, 1980",192.5,90.0,SG
+193,Jameer Nelson,33.0,us,"February 9, 1982",180.0,85.5,PG
+194,James Ennis III,25.0,us,"July 1, 1990",197.5,94.5,SF
+195,James Harden,26.0,us,"August 26, 1989",192.5,99.0,SG
+196,James Johnson,28.0,us,"February 20, 1987",202.5,112.5,PF
+197,James Jones,35.0,us,"October 4, 1980",200.0,98.1,SF
+198,James Michael McAdoo,22.0,us,"January 4, 1993",202.5,103.5,PF
+199,James Young,,,,,,
+200,JaMychal Green,25.0,us,"June 21, 1990",202.5,102.15,PF
+201,Jannero Pargo,36.0,us,"October 22, 1979",182.5,78.75,PG
+202,Jared Cunningham,24.0,us,"May 22, 1991",190.0,87.75,SG
+203,Jared Dudley,30.0,us,"July 10, 1985",197.5,101.25,SG
+204,Jared Sullinger,23.0,us,"March 4, 1992",202.5,117.0,PF
+205,Jarnell Stokes,,,,,,
+206,Jarrett Jack,32.0,us,"October 28, 1983",187.5,90.0,PG
+207,Jason Maxiell,32.0,us,"February 18, 1983",197.5,117.0,PF
+208,Jason Richardson,34.0,us,"January 20, 1981",195.0,99.0,SG
+209,Jason Smith,,,,,,
+210,Jason Terry,,,,,,
+211,Jason Thompson,,,,,,
+212,JaVale McGee,27.0,us,"January 19, 1988",210.0,121.5,C
+213,Jeff Adrien,29.0,us,"February 10, 1986",197.5,110.25,PF
+214,Jeff Ayres,28.0,us,"April 29, 1987",202.5,108.0,PF
+215,Jeff Green,29.0,us,"August 28, 1986",202.5,105.75,SF
+216,Jeff Teague,27.0,us,"June 10, 1988",185.0,83.7,PG
+217,Jeff Withey,,,,,,
+218,Jeffery Taylor,26.0,se,"May 23, 1989",197.5,101.25,SF
+219,Jerami Grant,21.0,us,"March 12, 1994",200.0,94.5,SF
+220,Jerel McNeal,28.0,us,"June 1, 1987",187.5,90.0,PG
+221,Jeremy Evans,28.0,us,"October 24, 1987",202.5,90.0,SF
+222,Jeremy Lamb,23.0,us,"May 30, 1992",192.5,83.25,SG
+223,Jeremy Lin,27.0,us,"August 23, 1988",187.5,90.0,PG
+224,Jerome Jordan,29.0,jm,"September 29, 1986",210.0,113.85,C
+225,Jerrelle Benimon,24.0,us,"August 1, 1991",200.0,110.25,PF
+226,Jerryd Bayless,27.0,us,"August 20, 1988",187.5,90.0,PG
+227,Jimmer Fredette,26.0,us,"February 25, 1989",185.0,87.75,PG
+228,Jimmy Butler,26.0,us,"September 14, 1989",197.5,99.0,SG
+229,JJ Hickson,27.0,us,"September 4, 1988",202.5,108.9,C
+230,JJ Redick,31.0,us,"June 24, 1984",190.0,85.5,SG
+231,Joakim Noah,30.0,us,"February 25, 1985",207.5,103.5,C
+232,Jodie Meeks,28.0,us,"August 21, 1987",190.0,94.5,SG
+233,Joe Harris,24.0,us,"September 7, 1991",195.0,98.55,SG
+234,Joe Ingles,28.0,au,"October 2, 1987",200.0,101.7,SF
+235,Joe Johnson,34.0,us,"June 29, 1981",197.5,108.0,SG
+236,Joel Anthony,33.0,ca,"August 9, 1982",202.5,110.25,C
+237,Joel Freeland,28.0,gb,"February 7, 1987",205.0,112.5,C
+238,Joey Dorsey,32.0,us,"December 16, 1983",200.0,120.6,PF
+239,Joffrey Lauvergne,24.0,fr,"September 30, 1991",207.5,99.0,C
+240,John Henson,25.0,us,"December 28, 1990",207.5,103.05,C
+241,John Jenkins,24.0,us,"March 6, 1991",190.0,96.75,SG
+242,John Lucas III,33.0,us,"November 21, 1982",177.5,74.7,PG
+243,John Salmons,,,,,,
+244,John Wall,,,,,,
+245,Johnny O'Bryant III,22.0,us,"June 1, 1993",202.5,115.65,PF
+246,Jon Leuer,26.0,us,"May 14, 1989",205.0,102.6,PF
+247,Jonas Jerebko,28.0,se,"March 2, 1987",205.0,103.95,PF
+248,Jonas Valanciunas,23.0,lt,"May 6, 1992",210.0,119.25,C
+249,Jordan Adams,21.0,us,"July 8, 1994",192.5,94.05,SG
+250,Jordan Clarkson,23.0,us,"June 7, 1992",192.5,87.3,PG
+251,Jordan Farmar,29.0,us,"November 30, 1986",185.0,81.0,PG
+252,Jordan Hamilton,25.0,us,"October 6, 1990",197.5,99.0,SF
+253,Jordan Hill,28.0,us,"July 27, 1987",205.0,105.75,C
+254,Jorge Gutierrez,27.0,mx,"December 27, 1988",187.5,85.95,PG
+255,Jose Calderon,34.0,es,"September 28, 1981",187.5,90.0,PG
+256,Josh McRoberts,28.0,us,"February 28, 1987",205.0,108.0,PF
+257,Josh Smith,,,,,,
+258,JR Smith,30.0,us,"September 9, 1985",195.0,101.25,SG
+259,Jrue Holiday,25.0,us,"June 12, 1990",190.0,92.25,PG
+260,Julius Randle,21.0,us,"November 29, 1994",202.5,112.5,PF
+261,Justin Hamilton,25.0,us,"April 1, 1990",210.0,117.0,C
+262,Justin Holiday,26.0,us,"April 5, 1989",195.0,83.25,SG
+263,Jusuf Nurkic,,,,,,
+264,Kalin Lucas,26.0,us,"May 24, 1989",182.5,87.75,PG
+265,Kawhi Leonard,24.0,us,"June 29, 1991",197.5,103.5,SF
+266,Kelly Olynyk,24.0,ca,"April 19, 1991",210.0,107.1,C
+267,Kemba Walker,25.0,us,"May 8, 1990",182.5,77.4,PG
+268,Kendall Marshall,24.0,us,"August 19, 1991",190.0,90.0,PG
+269,Kendrick Perkins,31.0,us,"November 10, 1984",205.0,121.5,C
+270,Kenneth Faried,26.0,us,"November 19, 1989",200.0,102.6,PF
+271,Kent Bazemore,26.0,us,"July 1, 1989",192.5,90.45,SG
+272,Kentavious Caldwell-Pope,22.0,us,"February 18, 1993",192.5,92.25,SG
+273,Kenyon Martin,38.0,us,"December 30, 1977",202.5,105.3,PF
+274,Kevin Durant,27.0,us,"September 29, 1988",202.5,108.0,SF
+275,Kevin Garnett,39.0,us,"May 19, 1976",207.5,108.0,PF
+276,Kevin Love,27.0,us,"September 7, 1988",205.0,112.95,PF
+277,Kevin Martin,32.0,us,"February 1, 1983",197.5,89.55,SG
+278,Kevin Seraphin,26.0,gf,"December 7, 1989",202.5,128.25,C
+279,Khris Middleton,24.0,us,"August 12, 1991",200.0,105.3,SF
+280,Kirk Hinrich,34.0,us,"January 2, 1981",190.0,85.5,SG
+281,KJ McDaniels,22.0,us,"February 9, 1993",195.0,92.25,SG
+282,Klay Thompson,25.0,us,"February 8, 1990",197.5,96.75,SG
+283,Kobe Bryant,37.0,us,"August 23, 1978",195.0,95.4,SG
+284,Kosta Koufos,26.0,us,"February 24, 1989",210.0,119.25,C
+285,Kostas Papanikolaou,25.0,gr,"July 31, 1990",200.0,101.25,SF
+286,Kris Humphries,30.0,us,"February 6, 1985",202.5,105.75,PF
+287,Kyle Anderson,22.0,us,"September 20, 1993",202.5,103.5,SF
+288,Kyle Korver,34.0,us,"March 17, 1981",197.5,95.4,SG
+289,Kyle Lowry,29.0,us,"March 25, 1986",182.5,88.2,PG
+290,Kyle O'Quinn,25.0,us,"March 26, 1990",205.0,112.5,PF
+291,Kyle Singler,27.0,us,"May 4, 1988",200.0,102.6,SF
+292,Kyrie Irving,23.0,au,"March 23, 1992",187.5,86.85,PG
+293,LaMarcus Aldridge,30.0,us,"July 19, 1985",207.5,117.0,PF
+294,Lance Stephenson,25.0,us,"September 5, 1990",192.5,103.5,SG
+295,Lance Thomas,,,,,,
+296,Landry Fields,27.0,us,"June 27, 1988",197.5,94.5,SF
+297,Langston Galloway,24.0,us,"December 9, 1991",185.0,90.0,PG
+298,Larry Drew II,25.0,us,"March 5, 1990",185.0,81.0,PG
+299,Larry Sanders,,,,,,
+300,Lavoy Allen,26.0,us,"February 4, 1989",202.5,117.0,C
+301,Leandro Barbosa,33.0,br,"November 28, 1982",187.5,87.3,SG
+302,LeBron James,31.0,us,"December 30, 1984",200.0,112.5,SF
+303,Lester Hudson,31.0,us,"August 7, 1984",187.5,85.5,SG
+304,Lorenzo Brown,25.0,us,"August 26, 1990",192.5,85.05,PG
+305,Lou Amundson,33.0,us,"December 7, 1982",202.5,99.0,PF
+306,Lou Williams,29.0,us,"October 27, 1986",182.5,78.75,SG
+307,Luc Mbah a Moute,29.0,cm,"September 9, 1986",200.0,103.5,PF
+308,Lucas Nogueira,23.0,br,"July 26, 1992",210.0,108.45,C
+309,Luis Scola,35.0,ar,"April 30, 1980",202.5,108.0,PF
+310,Luke Babbitt,26.0,us,"June 20, 1989",202.5,101.25,SF
+311,Luke Ridnour,34.0,us,"February 13, 1981",185.0,78.75,PG
+312,Luol Deng,30.0,ss,"April 16, 1985",202.5,99.0,SF
+313,Malcolm Thomas,25.0,us,"May 22, 1990",192.5,90.0,SG
+314,Manu Ginobili,38.0,ar,"July 28, 1977",195.0,92.25,SG
+315,Marc Gasol,30.0,es,"January 29, 1985",212.5,114.75,C
+316,Marcin Gortat,31.0,pl,"February 17, 1984",207.5,108.0,C
+317,Marco Belinelli,29.0,it,"March 25, 1986",192.5,94.5,SG
+318,Marcus Morris,26.0,us,"September 2, 1989",202.5,105.75,PF
+319,Marcus Smart,21.0,us,"March 6, 1994",190.0,99.0,PG
+320,Marcus Thornton,,,,,,
+321,Mario Chalmers,29.0,us,"May 19, 1986",185.0,85.5,PG
+322,Markel Brown,23.0,us,"January 29, 1992",187.5,85.5,SG
+323,Markieff Morris,26.0,us,"September 2, 1989",205.0,110.25,PF
+324,Marreese Speights,28.0,us,"August 4, 1987",205.0,114.75,C
+325,Martell Webster,,,,,,
+326,Marvin Williams,29.0,us,"June 19, 1986",202.5,106.65,PF
+327,Mason Plumlee,25.0,us,"March 5, 1990",207.5,110.25,C
+328,Matt Barnes,35.0,us,"March 9, 1980",197.5,101.7,SF
+329,Matt Bonner,35.0,us,"April 5, 1980",205.0,105.75,PF
+330,Matthew Dellavedova,25.0,au,"September 8, 1990",190.0,89.1,SG
+331,Maurice Harkless,22.0,us,"May 11, 1993",202.5,96.75,SF
+332,Meyers Leonard,23.0,us,"February 27, 1992",212.5,110.25,C
+333,Michael Beasley,26.0,us,"January 9, 1989",202.5,105.75,SF
+334,Michael Carter-Williams,24.0,us,"October 10, 1991",195.0,85.5,PG
+335,Michael Kidd-Gilchrist,22.0,us,"September 26, 1993",197.5,104.4,SF
+336,Mike Conley,28.0,us,"October 11, 1987",182.5,78.75,PG
+337,Mike Dunleavy,35.0,us,"September 15, 1980",202.5,103.5,SF
+338,Mike Miller,35.0,us,"February 19, 1980",200.0,98.1,SF
+339,Mike Muscala,24.0,us,"July 1, 1991",207.5,108.0,PF
+340,Mike Scott,27.0,us,"July 16, 1988",200.0,106.65,PF
+341,Miles Plumlee,27.0,us,"September 1, 1988",207.5,112.05,C
+342,Miroslav Raduljica,,,,,,
+343,Mirza Teletovic,,,,,,
+344,Mitch McGary,23.0,us,"June 6, 1992",205.0,114.75,PF
+345,Mo Williams,33.0,us,"December 19, 1982",182.5,89.1,PG
+346,Monta Ellis,30.0,us,"October 26, 1985",187.5,83.25,SG
+347,Nate Robinson,,,,,,
+348,Nate Wolters,,,,,,
+349,Nazr Mohammed,38.0,us,"September 5, 1977",205.0,99.45,C
+350,Nene,33.0,br,"September 13, 1982",207.5,112.5,PF
+351,Nerlens Noel,21.0,us,"April 10, 1994",207.5,102.6,C
+352,Nick Calathes,26.0,us,"February 7, 1989",195.0,95.85,SG
+353,Nick Collison,35.0,us,"October 26, 1980",205.0,114.75,PF
+354,Nick Johnson,23.0,us,"December 22, 1992",187.5,90.9,SG
+355,Nick Young,,,,,,
+356,Nicolas Batum,27.0,fr,"December 14, 1988",200.0,90.0,SF
+357,Nik Stauskas,22.0,ca,"October 7, 1993",195.0,92.25,SG
+358,Nikola Mirotic,24.0,me,"February 11, 1991",205.0,99.0,PF
+359,Nikola Pekovic,,,,,,
+360,Nikola Vucevic,25.0,ch,"October 24, 1990",210.0,117.0,C
+361,Noah Vonleh,20.0,us,"August 24, 1995",205.0,108.0,PF
+362,Norris Cole,27.0,us,"October 13, 1988",185.0,78.75,PG
+363,O.J. Mayo,28.0,us,"November 5, 1987",192.5,94.5,SG
+364,Ognjen Kuzmic,25.0,ba,"May 16, 1990",212.5,112.95,C
+365,Omer Asik,29.0,tr,"July 4, 1986",210.0,114.75,C
+366,Omri Casspi,27.0,il,"June 22, 1988",202.5,101.25,SF
+367,Otto Porter Jr.,22.0,us,"June 3, 1993",200.0,89.1,SF
+368,Pablo Prigioni,38.0,ar,"May 17, 1977",187.5,83.25,PG
+369,Patrick Beverley,27.0,us,"July 12, 1988",182.5,83.25,PG
+370,Patrick Christopher,27.0,us,"June 3, 1988",192.5,94.05,SG
+371,Patrick Patterson,,,,,,
+372,Patty Mills,27.0,au,"August 11, 1988",180.0,83.25,PG
+373,Pau Gasol,35.0,es,"July 6, 1980",210.0,112.5,PF
+374,Paul George,25.0,us,"May 2, 1990",202.5,99.0,SF
+375,Paul Millsap,30.0,us,"February 10, 1985",200.0,110.7,PF
+376,Paul Pierce,38.0,us,"October 13, 1977",197.5,105.75,SF
+377,Pero Antic,33.0,mk,"July 29, 1982",207.5,117.0,PF
+378,Perry Jones III,24.0,us,"September 24, 1991",207.5,105.75,SF
+379,Phil Pressey,24.0,us,"February 17, 1991",177.5,78.75,PG
+380,PJ Hairston,23.0,us,"December 24, 1992",195.0,103.5,SG
+381,PJ Tucker,,,,,,
+382,Quincy Acy,25.0,us,"October 6, 1990",197.5,108.0,PF
+383,Quincy Miller,23.0,us,"November 18, 1992",202.5,94.5,PF
+384,Quincy Pondexter,27.0,us,"March 10, 1988",197.5,99.0,SF
+385,Rajon Rondo,29.0,us,"February 22, 1986",182.5,83.7,PG
+386,Ramon Sessions,29.0,us,"April 11, 1986",187.5,85.5,PG
+387,Randy Foye,32.0,us,"September 24, 1983",190.0,95.85,SG
+388,Rasual Butler,36.0,us,"May 23, 1979",197.5,96.75,SF
+389,Ray McCallum,24.0,us,"June 12, 1991",187.5,85.5,PG
+390,Raymond Felton,31.0,us,"June 26, 1984",182.5,92.25,PG
+391,Reggie Bullock,24.0,us,"March 16, 1991",197.5,92.25,SF
+392,Reggie Evans,35.0,us,"May 18, 1980",200.0,110.25,PF
+393,Reggie Jackson,25.0,it,"April 16, 1990",187.5,93.6,PG
+394,Reggie Williams,,,,,,
+395,Richard Jefferson,35.0,us,"June 21, 1980",197.5,104.85,SF
+396,Ricky Ledo,,,,,,
+397,Ricky Rubio,23.0,us,"September 10, 1992",197.5,87.75,SG
+398,Robbie Hummel,26.0,us,"March 8, 1989",200.0,96.75,SF
+399,Robert Covington,25.0,us,"December 14, 1990",202.5,96.75,SF
+400,Robert Sacre,,,,,,
+401,Robin Lopez,27.0,us,"April 1, 1988",210.0,114.75,C
+402,Rodney Hood,23.0,us,"October 20, 1992",200.0,92.7,SG
+403,Rodney Stuckey,29.0,us,"April 21, 1986",192.5,94.5,PG
+404,Ronnie Price,32.0,us,"June 21, 1983",185.0,85.5,PG
+405,Ronny Turiaf,,,,,,
+406,Roy Hibbert,29.0,us,"December 11, 1986",215.0,121.5,C
+407,Rudy Gay,29.0,us,"August 17, 1986",200.0,103.5,SF
+408,Rudy Gobert,23.0,fr,"June 26, 1992",212.5,110.25,C
+409,Russ Smith,24.0,us,"April 19, 1991",180.0,74.25,PG
+410,Russell Westbrook,,,,,,
+411,Ryan Anderson,27.0,us,"May 6, 1988",205.0,108.0,PF
+412,Ryan Hollins,31.0,us,"October 10, 1984",210.0,108.0,C
+413,Ryan Kelly,24.0,us,"April 9, 1991",207.5,103.5,PF
+414,Samuel Dalembert,34.0,ht,"May 10, 1981",207.5,114.75,C
+415,Sean Kilpatrick,25.0,us,"January 6, 1990",190.0,94.5,SG
+416,Sebastian Telfair,,,,,,
+417,Serge Ibaka,26.0,cg,"September 18, 1989",205.0,105.75,PF
+418,Sergey Karasev,22.0,ru,"October 26, 1993",197.5,93.6,SG
+419,Seth Curry,25.0,us,"August 23, 1990",185.0,83.25,PG
+420,Shabazz Muhammad,23.0,us,"November 13, 1992",195.0,100.35,SG
+421,Shabazz Napier,,,,,,
+422,Shane Larkin,23.0,us,"October 2, 1992",177.5,78.75,PG
+423,Shannon Brown,30.0,us,"November 29, 1985",190.0,92.25,SG
+424,Shaun Livingston,30.0,us,"September 11, 1985",197.5,86.4,PG
+425,Shavlik Randolph,32.0,us,"November 24, 1983",205.0,108.0,PF
+426,Shawn Marion,37.0,us,"May 7, 1978",197.5,99.0,SF
+427,Shawne Williams,24.0,us,"March 27, 1991",207.5,112.5,PF
+428,Shayne Whittington,,,,,,
+429,Shelvin Mack,25.0,us,"April 22, 1990",187.5,91.35,PG
+430,Sim Bhullar,23.0,ca,"December 2, 1992",222.5,162.0,C
+431,Solomon Hill,24.0,us,"March 18, 1991",197.5,101.25,SF
+432,Spencer Dinwiddie,22.0,us,"April 6, 1993",195.0,90.0,PG
+433,Spencer Hawes,27.0,us,"April 28, 1988",212.5,110.25,PF
+434,Stephen Curry,27.0,us,"March 14, 1988",187.5,85.5,PG
+435,Steve Blake,35.0,us,"February 26, 1980",187.5,77.4,PG
+436,Steve Novak,32.0,us,"June 13, 1983",205.0,101.25,PF
+437,Steven Adams,22.0,nz,"July 20, 1993",210.0,114.75,C
+438,Taj Gibson,30.0,us,"June 24, 1985",202.5,101.25,PF
+439,Tarik Black,24.0,us,"November 22, 1991",202.5,112.5,C
+440,Tayshaun Prince,35.0,us,"February 28, 1980",202.5,95.4,SF
+441,Terrence Jones,23.0,us,"January 9, 1992",202.5,113.4,PF
+442,Terrence Ross,24.0,us,"February 5, 1991",197.5,92.7,SF
+443,Thabo Sefolosha,31.0,ch,"May 2, 1984",197.5,99.0,SF
+444,Thaddeus Young,,,,,,
+445,Thomas Robinson,,,,,,
+446,Tiago Splitter,30.0,br,"January 1, 1985",207.5,110.25,C
+447,Tim Duncan,39.0,vi,"April 25, 1976",207.5,112.5,C
+448,Tim Frazier,25.0,us,"November 1, 1990",182.5,76.5,PG
+449,Tim Hardaway Jr.,23.0,us,"March 16, 1992",195.0,92.25,SG
+450,Timofey Mozgov,29.0,ru,"July 16, 1986",212.5,123.75,C
+451,TJ Warren,,,,,,
+452,Tobias Harris,23.0,us,"July 15, 1992",202.5,105.75,SF
+453,Toney Douglas,29.0,us,"March 16, 1986",185.0,87.75,SG
+454,Tony Allen,33.0,us,"January 11, 1982",190.0,95.85,SG
+455,Tony Parker,33.0,be,"May 17, 1982",185.0,83.25,PG
+456,Tony Snell,24.0,us,"November 10, 1991",197.5,90.0,SF
+457,Tony Wroten,,,,,,
+458,Toure' Murry,26.0,us,"November 8, 1989",192.5,87.75,SG
+459,Travis Wear,,,,,,
+460,Trevor Ariza,30.0,us,"June 30, 1985",200.0,96.75,SF
+461,Trevor Booker,28.0,us,"November 25, 1987",200.0,102.6,PF
+462,Trey Burke,23.0,us,"November 12, 1992",182.5,85.95,PG
+463,Tristan Thompson,,,,,,
+464,Troy Daniels,24.0,us,"July 15, 1991",190.0,92.25,SG
+465,Ty Lawson,28.0,us,"November 3, 1987",177.5,87.75,PG
+466,Tyler Ennis,21.0,ca,"August 24, 1994",187.5,87.3,PG
+467,Tyler Hansbrough,30.0,us,"November 3, 1985",202.5,112.5,PF
+468,Tyler Johnson,23.0,us,"May 7, 1992",190.0,83.7,SG
+469,Tyler Zeller,,,,,,
+470,Tyreke Evans,26.0,us,"September 19, 1989",195.0,99.0,SG
+471,Tyrus Thomas,,,,,,
+472,Tyson Chandler,33.0,us,"October 2, 1982",212.5,108.0,C
+473,Udonis Haslem,35.0,us,"June 9, 1980",200.0,105.75,PF
+474,Vander Blue,23.0,us,"July 17, 1992",190.0,90.0,SG
+475,Victor Claver,27.0,es,"August 30, 1988",202.5,100.8,SF
+476,Victor Oladipo,23.0,us,"May 4, 1992",190.0,94.5,SG
+477,Vince Carter,38.0,us,"January 26, 1977",195.0,99.0,SG
+478,Wayne Ellington,28.0,us,"October 29, 1987",190.0,90.0,SG
+479,Wesley Johnson,28.0,us,"July 11, 1987",197.5,96.75,SF
+480,Wesley Matthews,29.0,us,"October 14, 1986",192.5,99.0,SG
+481,Will Barton,24.0,us,"January 6, 1991",195.0,78.75,SG
+482,Will Bynum,32.0,us,"January 4, 1983",180.0,83.25,SG
+483,Will Cherry,24.0,us,"February 8, 1991",180.0,83.25,PG
+484,Willie Green,34.0,us,"July 28, 1981",190.0,90.0,SG
+485,Wilson Chandler,28.0,us,"May 10, 1987",200.0,101.25,SF
+486,Xavier Henry,24.0,be,"March 15, 1991",195.0,99.0,SF
+487,Zach LaVine,20.0,us,"March 10, 1995",192.5,85.05,PG
+488,Zach Randolph,34.0,us,"July 16, 1981",202.5,117.0,PF
+489,Zaza Pachulia,31.0,ge,"February 10, 1984",207.5,121.5,C
+490,Zoran Dragic,26.0,si,"June 22, 1989",192.5,90.0,SG
